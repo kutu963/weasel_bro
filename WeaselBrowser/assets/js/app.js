@@ -1,1 +1,0 @@
-var a = [1, 2, 3, {atena: telebits}, {selektor: teletabis}, bir_array= ["asd","qwe","zxc","rty","fgh","vbn"]]
